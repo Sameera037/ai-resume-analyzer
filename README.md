@@ -28,5 +28,5 @@ It helps job seekers and recruiters understand the alignment between a candidate
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/ai-resume-analyzer.git
+git clone https://github.com/<Sameera037>/ai-resume-analyzer.git
 cd ai-resume-analyzer
